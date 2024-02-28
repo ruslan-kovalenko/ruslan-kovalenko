@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ruslan Kovalenko
 ========================================================================================================================================
 
-Hello, my name is Ruslan. I am a Full-stack (Frontend-heavy) developer with over 8+ years of web development experience. My primary technology stack includes Vue.js, Typescript, and SCSS. Additionally, I have secondary experience in Domain-Driven Design, React.js, Node.js, microservices, WebSocket, MongoDB and PostgreSQL.
+I am a Full-stack (Frontend-heavy) developer with over 8+ years of web development experience. My primary technology stack includes Vue.js, Typescript, and SCSS. Additionally, I have secondary experience in Domain-Driven Design, React.js, Node.js, microservices, WebSocket, MongoDB and PostgreSQL.
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [ruslan.kov90@gmail.com](mailto:ruslan.kov90@gmail.com)
